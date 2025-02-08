@@ -204,3 +204,7 @@ The construction of an informative and visually appealing dashboard.
 
 All deliverables are consolidated in a publicly accessible GitHub repository to facilitate reproducibility and further exploration.
 
+
+#DASHBOARD
+
+![Image](https://github.com/user-attachments/assets/a13b8840-aa07-42cb-a6a1-cca9d44fa83f)
