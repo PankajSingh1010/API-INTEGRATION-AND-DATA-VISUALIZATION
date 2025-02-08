@@ -8,13 +8,13 @@
 
 **DOMAIN** : Python Programmimg
 
-**TASK** : Task 1 :- API Integration and Data Visualization using Matplotlib and Seaborn
+**TASK** : Task 1 :- API Integration and Data Visualization
 
 **BATCH DURATION** : January 10th, 2025 to March 10th, 2025
 
 **MENTOR NAME** : Neela Santhosh Kumar
 
-# DESCRIPTION OF THE TASK PERFORMED : API INTEGRATION AND DATA VISUALIZATION USING MATPLOTLIB OR SEABORN
+# DESCRIPTION OF THE TASK PERFORMED : API INTEGRATION AND DATA VISUALIZATION
 
 Introduction
 
